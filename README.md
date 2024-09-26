@@ -14,6 +14,7 @@ Python 3
    ```bash
    python server.py
    ```
+  
 
 ### 2. Ejecutar el Cliente
 
@@ -27,13 +28,6 @@ Python 3
 
 - Escribe un mensaje en la terminal del cliente y presiona Enter.
 - El servidor mostrara el mensaje recibido y responderá con una confirmación.
-
-
-
-Demostración de código
-![Ejemplo #1](socket.png)
-
-![Ejemplo #1](socket02.png)
 
 Demostración de código
 
