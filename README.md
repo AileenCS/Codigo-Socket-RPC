@@ -1,11 +1,11 @@
-# Codigo-Socket-RPC
+# Código-Socket-RPC
 
-Demostracion de codigo
-![Texto alternativo](socket.png)
+Demostración de código
+![Ejemplo #1](socket.png)
 
-![Texto alternativo](socket02.png)
+![Ejemplo #1](socket02.png)
 
-Demostracion de codigo
-![Texto alternativo](pakosocket03.png)
+Demostración de código
 
-![Texto alternativo](pakosocket03.png)
+![Ejemplo #2 ](pakosocket03.png)
+![Ejemplo #2](pakosocket03.png)
