@@ -1,3 +1,3 @@
 # Codigo-Socket-RPC
 
-![Texto alternativo](socket.jpg)
+![Texto alternativo](socket.png)
